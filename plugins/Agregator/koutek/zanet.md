@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
 
-# Kdy zánět léčit, kdy rozhánět a kdy podporovat
+# Kdy zánět léčit, kdy rozhánět a kdy podporovat?
 
 {class="description" kw="zánět, zčervenání, bolest, akutní, chronický, infikovaná oděrka, kapénková infekce, kontaminovaná strava, septický stav, nehnisavý, hnisavý, obklady"}
 
